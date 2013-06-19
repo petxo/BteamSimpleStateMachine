@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bteam.SimpleStateMachine", "Bteam.SimpleStateMachine\Bteam.SimpleStateMachine.csproj", "{37B07938-18B6-413D-9139-83ED0AC656E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bteam.SimpleStateMachine.Test", "Bteam.SimpleStateMachine.Test\Bteam.SimpleStateMachine.Test.csproj", "{448CB6B0-9B0A-47BC-B0E2-48F540E5FF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B07938-18B6-413D-9139-83ED0AC656E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B07938-18B6-413D-9139-83ED0AC656E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B07938-18B6-413D-9139-83ED0AC656E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B07938-18B6-413D-9139-83ED0AC656E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448CB6B0-9B0A-47BC-B0E2-48F540E5FF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448CB6B0-9B0A-47BC-B0E2-48F540E5FF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448CB6B0-9B0A-47BC-B0E2-48F540E5FF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448CB6B0-9B0A-47BC-B0E2-48F540E5FF70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
